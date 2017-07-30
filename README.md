@@ -1,1 +1,1 @@
-# ezmod
+# ezmod - Project abandoned (currently)
