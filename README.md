@@ -21,7 +21,7 @@ Makes your server managment easy.
 
 ## Configs
 - **esl1on1**
-- **sl1on1awp**
+- **esl1on1awp**
 - **esl1on1hg**
 - **esl1on1rl**
 - **esl2on2**
